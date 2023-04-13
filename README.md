@@ -2,18 +2,24 @@
 
 ![fotopdp](https://user-images.githubusercontent.com/82007207/231621829-fbe9f001-7c37-46c2-93ec-6ff361e522fc.jpeg)
 
+# Descripcion
 
-<h1> Informacion sobre mi </h1>  
+Me llamo Matías y tengo 21 años. Actualmente estoy en el 3° año de Ingenieria en Sistemas en la UTN. Tengo un hermano llamado Gianluca y vivo en Villa Madero. 
 
--Me llamo Matias José Tiscornia, mis amigos me dicen <b>Tisco</b>.  
+ Legajo: 1757088. 
 
--Naci el <b>20/02/2002</b>, capicua y tengo 21.  
+# Datos Curiosos Sobre Mi  
 
--Mi Legajo es: 1757088.  
+-Mis amigos me dicen <b>Tisco</b>.  
+
+-Naci el <b>20/02/2002</b>, capicua.  
 
 -Cuando pido helado siempre pido <b>Cookies</b>, sabe que soy de la barra de Coldsplit.  
 
--Juego desde los 8 al tenis.  
+-Juego desde los 8 años al tenis.  
+
+-Banco a Luck Ra.
+
 
 
 
