@@ -9,7 +9,7 @@ Me llamo Matías y tengo 21 años. Actualmente estoy en el 3° año de Ingenieri
 ![fotopdp2](https://user-images.githubusercontent.com/82007207/231626195-bdc6da2c-a03b-45a7-9dcf-f21804c0dbfc.jpeg)
 
 
-<h2> Datos Curisos Sobre Mi </h2> 
+<h2> Datos Curiosos </h2> 
 
 -Mis amigos me dicen <b>Tisco</b>.  
 
