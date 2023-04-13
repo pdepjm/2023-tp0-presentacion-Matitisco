@@ -5,13 +5,13 @@
 
 <h2> Informacion sobre mi </h2>  
 
--Me llamo Matias José Tiscornia, mis amigos me dicen Tisco.  
+-Me llamo Matias José Tiscornia, mis amigos me dicen <b>Tisco</b>.  
 
--Naci el 20/02/2002, capicua y tengo 21.  
+-Naci el <b>20/02/2002</b>, capicua y tengo 21.  
 
 -Mi Legajo es: 1757088.  
 
--Cuando pido helado siempre pido cookies, sabe que soy de la barra de Coldsplit.  
+-Cuando pido helado siempre pido <b>Cookies</b>, sabe que soy de la barra de Coldsplit.  
 
 -Juego desde los 8 al tenis.  
 
