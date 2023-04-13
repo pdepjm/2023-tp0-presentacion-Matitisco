@@ -2,13 +2,13 @@
 
 ![fotopdp](https://user-images.githubusercontent.com/82007207/231621829-fbe9f001-7c37-46c2-93ec-6ff361e522fc.jpeg)
 
-# Descripcion
+<h2> Descripción </h2> 
 
 Me llamo Matías y tengo 21 años. Actualmente estoy en el 3° año de Ingenieria en Sistemas en la UTN. Tengo un hermano llamado Gianluca y vivo en Villa Madero. 
 
- Legajo: 1757088. 
+<h2> Legajo: 1757088 </h2> 
 
-# Datos Curiosos Sobre Mi  
+<h2> Datos Curisos Sobre Mi </h2> 
 
 -Mis amigos me dicen <b>Tisco</b>.  
 
